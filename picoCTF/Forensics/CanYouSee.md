@@ -1,6 +1,6 @@
-# SimpleCrackMe
+# CanYouSee
 
-🌀 [**Question Link**](https://play.picoctf.org/practice/challenge/408?category=4&page=1)
+🌀 [**Question Link**](https://play.picoctf.org/practice/challenge/408)
 🔥 **Difficulty: Easy**
 
 
