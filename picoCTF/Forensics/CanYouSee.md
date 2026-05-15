@@ -1,6 +1,6 @@
 # CanYouSee
 
-🌀 [**Question Link**](https://play.picoctf.org/practice/challenge/408)
+🌀 [**Question Link**](https://learn.cylabacademy.org/library/408)
 🔥 **Difficulty: Easy**
 
 

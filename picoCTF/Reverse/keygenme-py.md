@@ -1,6 +1,6 @@
 # keygenme-py
 
-🌀 [**Question Link**](https://play.picoctf.org/practice/challenge/121)
+🌀 [**Question Link**](https://learn.cylabacademy.org/library/121)
 🔥 **Difficulty: Medium**
 
 
